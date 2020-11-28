@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.muhammed.expensemanager">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ExpenseManager">
+        <meta-data
+            android:name="io.sentry.dsn"
+            android:value="https://8258e23737804a87870cff73c4fa2fb7@o483709.ingest.sentry.io/5535950" />
+
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8190184912059748~5255328974"/>
+
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".ResetActivity" />
+        <activity android:name=".RegistrationActivity2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbar_color">#FFAEF509</color>
+    <color name="nav_header">#FFEAA00C</color>
+    <color name="dasboard_color">#FF9B6309</color>
+    <color name="income_color">#FF240740</color>
+    <color name="expense_color">#FF6C042E</color>
+    <color name="date_color">#FF270648</color>
+    <color name="expense_amount">#FFEC1D06</color>
+    <color name="type">#3F5C6B</color>
+    <color name="expenseNum">#EA3D15</color>
+    <color name="ıncomeNum">#319D45</color>
+    <color name="bottomText">#EBEEEF</color>
+    <color name="ekle">#FFC107</color>
+    <color name="turuncu">#FF960B</color>
+    <color name="tittleText">#D9F5DA</color>
+    <color name="toolbarColor">#25BD42</color>
+</resources>

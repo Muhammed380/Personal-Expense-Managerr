@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="DashBoard"
+        android:icon="@drawable/icons8_invoice_64"
+        ></item>
+
+    <item
+        android:id="@+id/income"
+        android:title="Income"
+        android:icon="@drawable/icons8_low_price_96"
+
+        ></item>
+
+    <item
+
+        android:id="@+id/expense"
+        android:title="Expense"
+        android:icon="@drawable/icons8_low_price_96__1_"
+        ></item>
+</menu>
